@@ -1,0 +1,5 @@
+#define CKK_KCDSA                (CKK_VENDOR_DEFINED + 0x10)
+#define CKK_SEED                 (CKK_VENDOR_DEFINED + 0x11)
+#define CKK_EC_EDWARDS           (CKK_VENDOR_DEFINED + 0x12)
+#define CKK_EC_MONTGOMERY        (CKK_VENDOR_DEFINED + 0x13)
+#define CKK_BIP32                (CKK_VENDOR_DEFINED + 0x14)
